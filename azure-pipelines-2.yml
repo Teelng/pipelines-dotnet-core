@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Agent Computer
+pool: Azure Pipelines
   
 
 variables:
